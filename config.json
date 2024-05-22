@@ -9,17 +9,17 @@
   "UPTIME": 200,
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTOWNER": "100079631077041",
-  "OWNERLINK": "https://www.facebook.com/profile.php?id=100079631077041",
-  "OWNERID": "100079631077041",
-  "BOTCREATOR": "100079631077041",
+  "BOTOWNER": "100000350435589",
+  "OWNERLINK": "https://www.facebook.com/ji.la.pi.6",
+  "OWNERID": "",
+  "BOTCREATOR": "100000350435589",
   "CREATORLINK": "https://www.facebook.com/profile.php?id=100079631077041",
-  "CREATORID": "100079631077041",
-  "BOTNAME": "",
+  "CREATORID": "100000350435589",
+  "BOTNAME": "NS",
   "PREFIX": "/",
   "ADMINBOT": [
-    "100079631077041",
-    "100040890413270",
+    "",
+    "100000350435589",
     "",
     "",
     ""
@@ -27,7 +27,7 @@
   "DESIGN": {
     "Title": "R4M1M",
     "Theme": "Ghost",
-    "Admin": "ROMIM",
+    "Admin": "NAZRUL ",
     "Setup": {
       "Title": "Design your own custom terminal Titlebar with a maximum of 8 characters for the title and must contain no numbers",
       "Theme": "Effortlessly customize your console with a variety of theme colors, making it easier than ever to create your desired console look. Explore themes like Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
